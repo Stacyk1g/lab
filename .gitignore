@@ -1,0 +1,26 @@
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Временные файлы Word
+~$*.doc*
+~$*.docx*
+*.~lock.*
+
+# Временные файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+*.tmp
+*.temp
+*.log
+
+# Файлы сборки
+bin/
+obj/
+Debug/
+Release/
